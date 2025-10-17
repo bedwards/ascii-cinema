@@ -2,7 +2,7 @@
 
 Convert images and videos into beautiful ASCII art animations right in your terminal!
 
-[![Tests](https://github.com/bedwards/ascii-cinema/actions/workflows/test.yml/badge.svg)](https://github.com/bedwards/ascii-cinema/actions/workflows/check.yml?query=branch:main)
+[![Tests](https://github.com/bedwards/ascii-cinema/actions/workflows/test.yml/badge.svg)](https://github.com/bedwards/ascii-cinema/actions/workflows/test.yml?query=branch:main)
 [![codecov](https://codecov.io/gh/bedwards/ascii-cinema/branch/main/graph/badge.svg)](https://codecov.io/gh/bedwards/ascii-cinema)
 ![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
